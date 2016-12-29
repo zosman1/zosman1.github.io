@@ -47,6 +47,8 @@ body {
   padding-bottom: 6rem;
   margin-bottom: 0;
   background-color: #fff;
+  background-image: "/pictures/background.jpg";
+
 }
 
 .jumbotron p:last-child {
