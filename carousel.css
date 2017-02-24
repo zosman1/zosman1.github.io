@@ -55,6 +55,7 @@ body {
   background-image: url("/pictures/background.jpg");
   background-position: center center;
   background-size: auto 100%;
+  background-repeat: no-repeat;
 
 
 
