@@ -10,7 +10,9 @@ body {
 /*Stuff I made
 ---------------------------------------------------*/
 .sub-heading {
-  color: #676e73;
+  /*color: #676e73;*/
+  color: #0074d9;
+  font-weight: 400;
 }
 
 
