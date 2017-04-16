@@ -34,6 +34,12 @@ body {
 .navbar-collapse .text-muted {
   color: #818a91;
 }
+.nav-link-img {
+  float:right;
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
 
 .about {
   float: left;
