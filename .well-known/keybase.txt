@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/zosman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zosman.com
+  * I am zosman (https://keybase.io/zosman) on keybase.
+  * I have a public key ASAuhiHVr2A-gbwgSf1A7pvKAkFoL4kUr_VMlDxMaTJJEwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202e8621d5af603e81bc2049fd40ee9bca0241682f8914aff54c943c4c693249130a",
+            "host": "keybase.io",
+            "kid": "01202e8621d5af603e81bc2049fd40ee9bca0241682f8914aff54c943c4c693249130a",
+            "uid": "c07aed75037fbcdf9e255aaa6f7be619",
+            "username": "zosman"
+        },
+        "service": {
+            "hostname": "zosman.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492395947,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492395898,
+        "hash": "eaf2a48f66e1dc017e0650765026899c29563753b780a505429bdaeb30eb53f4f7311d5786d5ebb30a2bcb6a56fcbcbf25c288c106b5ecfee8590e6b0aae6af7",
+        "seqno": 1023186
+    },
+    "prev": "867161b48a0b6f82621fcf529b7efe7c3521f6a5f79d049791231b1484dbb636",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLoYh1a9gPoG8IEn9QO6bygJBaC+JFK/1TJQ8TGkySRMKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmU4NjIxZDVhZjYwM2U4MWJjMjA0OWZkNDBlZTliY2EwMjQxNjgyZjg5MTRhZmY1NGM5NDNjNGM2OTMyNDkxMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmU4NjIxZDVhZjYwM2U4MWJjMjA0OWZkNDBlZTliY2EwMjQxNjgyZjg5MTRhZmY1NGM5NDNjNGM2OTMyNDkxMzBhIiwidWlkIjoiYzA3YWVkNzUwMzdmYmNkZjllMjU1YWFhNmY3YmU2MTkiLCJ1c2VybmFtZSI6Inpvc21hbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiem9zbWFuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjEifSwiY3RpbWUiOjE0OTIzOTU5NDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MjM5NTg5OCwiaGFzaCI6ImVhZjJhNDhmNjZlMWRjMDE3ZTA2NTA3NjUwMjY4OTljMjk1NjM3NTNiNzgwYTUwNTQyOWJkYWViMzBlYjUzZjRmNzMxMWQ1Nzg2ZDVlYmIzMGEyYmNiNmE1NmZjYmNiZjI1YzI4OGMxMDZiNWVjZmVlODU5MGU2YjBhYWU2YWY3Iiwic2Vxbm8iOjEwMjMxODZ9LCJwcmV2IjoiODY3MTYxYjQ4YTBiNmY4MjYyMWZjZjUyOWI3ZWZlN2MzNTIxZjZhNWY3OWQwNDk3OTEyMzFiMTQ4NGRiYjYzNiIsInNlcW5vIjoyMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECHbb35905URFwwx1j8l2l+6QHY+cePCQ+JROMo+EuvHltaeCSU8eDFuQP2NYW7WcH6lUUd4TlTpb786Aqw1l0LqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgT/nhqhcha0jC82aFdyscINpIIJszaW2kg2gltmv4l8WjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zosman
+
+==================================================================
